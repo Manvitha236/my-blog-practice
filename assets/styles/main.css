@@ -12,3 +12,16 @@
 .subscribe-btn:hover {
   background-color: #0056b3;
 }
+
+body.dark-theme {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+a {
+  color: #bb86fc;
+}
+
+.header, .footer {
+  background-color: #1f1f1f;
+}
