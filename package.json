@@ -1,6 +1,6 @@
 {
   "name": "my-blog-practice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A GitHub practice project for blog structure and collaboration workflows.",
   "main": "index.js",
   "scripts": {
