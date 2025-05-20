@@ -1,7 +1,7 @@
 {
   "name": "my-blog-practice",
   "version": "1.0.0",
-  "description": "## 📥 Installation",
+  "description": "A GitHub practice project for blog structure and collaboration workflows.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -17,6 +17,9 @@
     "url": "https://github.com/Manvitha236/my-blog-practice/issues"
   },
   "homepage": "https://github.com/Manvitha236/my-blog-practice#readme",
+  "dependencies": {
+    "lodash": "4.17.15"
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
